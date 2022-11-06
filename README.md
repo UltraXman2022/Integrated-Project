@@ -15,8 +15,8 @@ Download dataset
 <li>Convert the data to the required types</li>
 <li>Describe the columns where the data types have been changed and why</li>
 <li>If necessary, decide how to deal with missing values:
- <li>Explain why you filled in the missing values as you did or why you decided to leave them blank</li>
- <li>Why do you think the values are missing? Give possible reasons</li>
+ <li>Explain why you filled in the missing values as you did or why you decided to leave them blank
+ Why do you think the values are missing? Give possible reasons
  <li>Pay attention to the abbreviation TBD (to be determined). Specify how you intend to handle such cases</li>
 <li>Calculate the total sales (the sum of sales in all regions) for each game and put these values in a separate column</li></ul>
 <h3>Step 3. Analyze the data</h3>
