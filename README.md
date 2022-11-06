@@ -46,7 +46,7 @@ Explain:
 - How you formulated the null and alternative hypotheses<br>
 - What significance level you chose to test the hypotheses, and why<br>
 
-<h3Step 6. Write a general conclusion</h3>
+<h3>Step 6. Write a general conclusion</h3>
 
 <h4>Data description</h4>
 <ul><li>Name</li>
